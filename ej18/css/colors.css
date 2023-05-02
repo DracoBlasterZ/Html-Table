@@ -1,0 +1,25 @@
+.containers {
+    width: 220px;
+    height: 110px;
+    border: #5545ec 2px solid;
+    background: url(../img/f01.png) left bottom repeat-x,
+    url(../img/f02.png) left bottom no-repeat,
+    url(../img/f03.png) left top repeat-x;
+    background-color: #90b9df;
+    margin-left: 10px;
+}
+
+#container2 {
+    width: 440px;
+    height: 330px;
+    border: #db3c3c 5px solid;
+    background: url(../img/f01.png) left bottom repeat-x,
+    url(../img/f02.png) left bottom no-repeat,
+    url(../img/f03.png) left top repeat-x;
+    background-color: #a4d3ff;
+    margin-top: 15px;
+    margin-left: 35px;
+    margin-bottom: 15px;
+    line-height: 3;
+    text-indent: 0.6cm;
+}

@@ -1,0 +1,16 @@
+table, td, th {
+    border-collapse: separate;
+    border-spacing: 1px;
+    border: black 1px solid;
+    padding-left: 2px;
+    padding-right: 2px;
+}
+
+th {
+    text-align: center;
+    font-weight: bold;
+}
+
+table tr:nth-child(3) {
+    font-weight: bold;
+}

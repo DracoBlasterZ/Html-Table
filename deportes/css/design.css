@@ -1,0 +1,32 @@
+html {
+background-color:#dfdfdf;
+    }
+    table{
+        padding:0px;
+        margin:0px;
+        border-spacing :0px;
+        font-family:'Courier New', Courier, monospace;
+        font-size: 14px;
+        border-top-width: 1px;
+        border-top-style: solid;
+        border-top-color: #4d9631;
+    }
+    th,td{
+        padding: 0.5em;
+        border-top-width: 1px;
+        border-top-style: solid;
+        border-top-color: #000000;
+        border-left-width: 1px;
+        border-left-style: solid;
+        border-left-color: #000000;
+    }
+    th{
+        background-color: #31641c;
+        color: aquamarine;
+    }
+    td{
+        background-color: #4ca728;
+    }
+    td.var2{
+        background-color: #6b975a;
+    }
