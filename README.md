@@ -4,7 +4,7 @@ Exercises Unit 29 Hosted in GitHub Pages
 
 To view the pages through Github Pages, go here (https://dracoblasterz.github.io/Html-Table/).
 
-To view Exercise 1-1, please click [here](./deportes/donde.html).
+To view Exercise 1-1, please click [here](./deportes/donde.htm).
 
 To view Exercise 1-2, please click [here](./deportes/donde2.htm).
 
